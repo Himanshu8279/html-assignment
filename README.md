@@ -25,13 +25,7 @@ Q - 1
                  <td><img src="image6.jpg" alt="Image 6" width="200" height="150"></td>
              </tr>
     </table>
-       
-
-
-
-
-  
-</body>
+    </body>
 </html>
 
 
@@ -41,4 +35,4 @@ Q - 1
 
 
   
-</html>
+
