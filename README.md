@@ -1,32 +1,28 @@
 # html-assignment
 Q - 1    
 
-<!doctype>
+<!DOCTYPE html>
 <html>
-       <head>  
-         
-         <title> Html Assignment</title> 
-         
-       </head>
+<head>
+  <title>Image Gallery</title>
+</head>
 <body>
 
-      <h1> image gallery </h1>
-      
-    <table>
-            <tr> 
-                 <td> img src="image1.jpg" alt="image 1" width="200" hight="150  </td>
-                 <td> img src="image2.jpg" alt="image 2"  width="200" hight="150 </td>     
-                 <td> img src="image3.jpg" alt="image 3"  width="200" hight="150 </td>
-            </tr>
+<h1>Simple Image Gallery</h1>
 
-             <tr>
-                 <td><img src="image4.jpg" alt="Image 4" width="200" height="150"></td>
-                 <td><img src="image5.jpg" alt="Image 5" width="200" height="150"></td>
-                 <td><img src="image6.jpg" alt="Image 6" width="200" height="150"></td>
-             </tr>
-    </table>
-    </body>
+<!-- Image Gallery -->
+<div>
+  <img src="image1.jpg" alt="Image 1" width="200" height="150">
+  <img src="image2.jpg" alt="Image 2" width="200" height="150">
+  <img src="image3.jpg" alt="Image 3" width="200" height="150">
+  <img src="image4.jpg" alt="Image 4" width="200" height="150">
+  <img src="image5.jpg" alt="Image 5" width="200" height="150">
+</div>
+
+</body>
 </html>
+
+
 
 
 
